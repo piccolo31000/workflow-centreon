@@ -47,6 +47,7 @@ if (!isset($oreon)) {
 function getListServiceForPool($poolId)
 {
     global $pearDB;
+    
 
     /*
     * Get pool informations

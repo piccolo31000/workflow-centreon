@@ -37,6 +37,7 @@
 // Be Careful with internal_name, it's case sensitive (with directory module name)
 $module_conf['centreon-dsm']["name"] = "centreon-dsm";
 //new line
+
 $module_conf['centreon-dsm']["rname"] = "Dynamic Services Management";
 $module_conf['centreon-dsm']["mod_release"] = "24.09.0";
 $module_conf['centreon-dsm']["infos"] = "Centreon Dynamic Service Management (Centreon-DSM) is a module to manage " .

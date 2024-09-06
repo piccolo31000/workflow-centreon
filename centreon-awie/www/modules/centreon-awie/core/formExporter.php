@@ -18,6 +18,7 @@
 
 if (!isset($oreon)) {
     exit();
+    
 }
 
 require_once _CENTREON_PATH_ . '/www/modules/centreon-awie/centreon-awie.conf.php';
